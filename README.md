@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![Alt text](<Kapture 2024-01-04 at 22.21.30.gif>)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/KSIRqe2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
